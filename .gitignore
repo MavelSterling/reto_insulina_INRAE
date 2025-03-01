@@ -44,5 +44,7 @@ venv.bak/
 .json
 .txt
 .xml
+.zip
+.pdf
 data/*
-
+datos/*
